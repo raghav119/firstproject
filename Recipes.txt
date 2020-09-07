@@ -5,3 +5,6 @@ welcome to telescope kitchen
 Kheer
 pasta
 vegetables
+
+Beans 
+Pizza
